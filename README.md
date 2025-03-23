@@ -11,7 +11,7 @@ Projekt predykcji cen biletów lotniczych przy użyciu modeli machine learning.
  ┃ ┣ 📄 compare.py         
  ┣ 📄 .gitignore  
  ┣ 📄 README.md  
- ┣ 📄 .requirements.txt
+ ┣ 📄 requirements.txt
 
 ## Technologie
 - Python
