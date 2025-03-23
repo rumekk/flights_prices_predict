@@ -1,3 +1,6 @@
+random_forest_results.csv
+xgboost_results.csv
+
 data/
 processed_data.csv
 processed_data_edit.csv
