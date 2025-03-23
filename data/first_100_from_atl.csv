@@ -1,0 +1,5 @@
+legId,searchDate,flightDate,startingAirport,destinationAirport,fareBasisCode,travelDuration,baseFare,totalFare,totalTravelDistance,segmentsAirlineName,segmentsEquipmentDescription
+1ad3c9a84f803cc98028ba8c67f35941,2022-04-18,2022-04-24,ATL,LGA,H3AHZNN1,PT2H22M,450.23,498.6,762.0,American Airlines,Embraer 170
+938cb69367f840443ff7d1ed1c4f22c6,2022-04-16,2022-04-23,ATL,JFK,BA0OA0MC,PT2H14M,431.63,478.6,762.0,Delta,Airbus A321
+1dfbd2ce7159c239f6fd9a0e5fc9bcaf,2022-04-17,2022-05-25,ATL,ORD,L0AIZNN1,PT2H12M,227.91,259.6,600.0,American Airlines,Canadian Regional Jet 700
+fc44edc9d9ee71123872b519f4e02356,2022-04-18,2022-05-16,ATL,LAX,MVAHZNN1,PT4H57M,413.02,458.6,1943.0,Alaska Airlines,Airbus A321
