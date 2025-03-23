@@ -10,7 +10,8 @@ Projekt predykcji cen biletów lotniczych przy użyciu modeli machine learning.
  ┃ ┣ 📄 xgboost_model.py  
  ┃ ┣ 📄 compare.py         
  ┣ 📄 .gitignore  
- ┣ 📄 README.md
+ ┣ 📄 README.md  
+ ┣ 📄 .requirements.txt
 
 ## Technologie
 - Python
