@@ -3,12 +3,12 @@ Projekt predykcji cen biletów lotniczych przy użyciu modeli machine learning.
 
 ## Struktura katalogów
 📂 flights_price_prediction  
- ┣ 📂 data               # Pliki z danymi (CSV)  
+ ┣ 📂 data                 
  ┃ ┣ 📄 processed_data.csv  
- ┣ 📂 source             # Kod źródłowy modeli ML  
+ ┣ 📂 source             L  
  ┃ ┣ 📄 random_forest.py  
  ┃ ┣ 📄 xgboost_model.py  
- ┃ ┣ 📄 compare.py       # Porównanie modeli  
+ ┃ ┣ 📄 compare.py         
  ┣ 📄 .gitignore  
  ┣ 📄 README.md
 
