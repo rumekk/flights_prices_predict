@@ -5,7 +5,7 @@ Projekt predykcji cen biletów lotniczych przy użyciu modeli machine learning.
 📂 flights_price_prediction  
  ┣ 📂 data                 
  ┃ ┣ 📄 processed_data.csv  
- ┣ 📂 source             L  
+ ┣ 📂 source               
  ┃ ┣ 📄 random_forest.py  
  ┃ ┣ 📄 xgboost_model.py  
  ┃ ┣ 📄 compare.py         
